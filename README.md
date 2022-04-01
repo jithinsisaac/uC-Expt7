@@ -29,7 +29,8 @@ To learn & implement different 8051 Assembly instructions
 ### Final list of Deliverables for Expt 7
 
 **Screenshots of:**
-- Various instructions executed
+- Various instructions executed 
+- Minimum 5 instructions per category
 
 `Please add .asm files of all the codes executed, inside the experiment repository`
 
